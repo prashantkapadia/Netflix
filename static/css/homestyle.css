@@ -2,3 +2,15 @@
 /* #search_button {
     color: red;
 } */
+
+.banner{
+    width: 100%;
+    display: "block"
+}
+.banner > a > .image_banner{
+    width: 100%;
+    display: "block";
+    height: 450px;
+    border: 10px solid green;
+    
+}
